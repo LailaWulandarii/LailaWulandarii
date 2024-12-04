@@ -47,7 +47,5 @@ I love blending traditional and modern elements in my designs to create unique a
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LailaWulandarii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=LailaWulandarii&icon=6&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
