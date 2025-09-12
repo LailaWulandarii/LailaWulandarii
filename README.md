@@ -12,11 +12,11 @@ Currently diving into Laravel, modern web practices, and AI-powered solutions to
 # 💻 Tech Stack:
 | Web | Mobile | Design |
 |-----|--------|--------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,vue,nodejs,sass,go" /> | <img src="https://skillicons.dev/icons?i=flutter,dart,java" /> | <img src="https://skillicons.dev/icons?i=figma" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,vue,nodejs,sass" /> | <img src="https://skillicons.dev/icons?i=flutter,dart,java" /> | <img src="https://skillicons.dev/icons?i=figma" /> |
 
 | Database & Cloud | Data Science | Tools |
 |------------------|--------------|-------|
-| <img src="https://skillicons.dev/icons?i=mysql,dynamodb,aws,vercel" /> | <img src="https://skillicons.dev/icons?i=python" />  | <img src="https://skillicons.dev/icons?i=git,github,gitlab,notion" /> |
+| <img src="https://skillicons.dev/icons?i=mysql,aws,vercel" /> | <img src="https://skillicons.dev/icons?i=python" />  | <img src="https://skillicons.dev/icons?i=git,github,notion" /> |
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LailaWulandarii&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LailaWulandarii&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
