@@ -13,7 +13,7 @@ Currently diving into Laravel, modern web practices, and AI-powered solutions to
 # 💻 Tech Stack:
 | Web | Mobile | Design |
 |-----|--------|--------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,vue,nodejs,sass" /> | <img src="https://skillicons.dev/icons?i=flutter,dart,java" /> | <img src="https://skillicons.dev/icons?i=figma" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,vue,nodejs,sass,python" /> | <img src="https://skillicons.dev/icons?i=flutter,dart,java" /> | <img src="https://skillicons.dev/icons?i=figma" /> |
 
 | Database & Cloud | Data Science | Tools |
 |------------------|--------------|-------|
